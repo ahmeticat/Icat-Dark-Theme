@@ -1,0 +1,27 @@
+{
+    "name": "icattheme",
+    "displayName": "icatTheme",
+    "description": "basic theme",
+    "version": "0.0.1",
+    "icon": "theme.png",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "publisher": "ahmeticat",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "icatTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/icatTheme-color-theme.json"
+            }
+        ]
+    }
+}
