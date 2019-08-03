@@ -1,6 +1,6 @@
 {
 	"name": "icatTheme",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 		"editor.background": "#2b2b2bde",
 		"editor.foreground": "#f0f0f0",
@@ -12,7 +12,7 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definitionXSPifXr3yb73epLXSPifXr3yb73epLXSPifXr3yb73epL.comment"
 			],
 			"settings": {
 				"fontStyle": "italic",
