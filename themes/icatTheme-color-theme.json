@@ -2,7 +2,7 @@
 	"name": "icatTheme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#00000073",
+		"editor.background": "#94aad8b7",
 		"editor.foreground": "#f0f0f0",
 		"activityBarBadge.background": "#3929c9",
 		"sideBarTitle.foreground": "#333992"
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#648d8b"
+				"foreground": "#12afa7"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#12e6e6"
+				"foreground": "#177a7e"
 			}
 		},
 		{
