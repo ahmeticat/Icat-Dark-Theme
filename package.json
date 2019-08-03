@@ -2,7 +2,7 @@
     "name": "icattheme",
     "displayName": "icatTheme",
     "description": "basic theme",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "icon": "theme.png",
     "engines": {
         "vscode": "^1.36.0"

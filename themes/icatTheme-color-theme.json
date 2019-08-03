@@ -2,7 +2,7 @@
 	"name": "icatTheme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#94aad8b7",
+		"editor.background": "#525255b7",
 		"editor.foreground": "#f0f0f0",
 		"activityBarBadge.background": "#3929c9",
 		"sideBarTitle.foreground": "#333992"
