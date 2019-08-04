@@ -1,8 +1,8 @@
 {
-    "name": "icattheme",
-    "displayName": "icatTheme",
-    "description": "basic theme",
-    "version": "0.0.8",
+    "name": "icat-dark-theme",
+    "displayName": "Icat Dark Theme",
+    "description": "Dark Theme For VsCode",
+    "version": "0.0.9",
     "icon": "theme.png",
     "engines": {
         "vscode": "^1.36.0"
@@ -10,7 +10,7 @@
     "publisher": "ahmeticat",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ahmeticat/icatTheme"
+        "url": "https://github.com/ahmeticat/Icat-Dark-Theme"
     },
     "categories": [
         "Themes"
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "icatTheme",
+                "label": "Icat Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/icatTheme-color-theme.json"
             }
