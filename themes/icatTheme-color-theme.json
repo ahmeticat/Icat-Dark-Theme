@@ -2,7 +2,7 @@
 	"name": "icatTheme",
 	"type": "dark",
 	"colors": {
-		"activityBarBadge.background": "#428bad",
+		"activityBarBadge.background": "#45e0fc",
 		"breadcrumb.background": "#383a3a",
 		"activityBar.border": "#597577",
 		"activityBar.inactiveForeground": "#585252",
@@ -26,7 +26,7 @@
 		"editor.background": "#222828",
 		"editor.foreground": "#f8f8f2",
 		"selection.background": "#5e5e5d",
-		"editor.selectionHighlightBackground": "#534f4fbe",
+		"editor.selectionHighlightBackground": "#352b2bbe",
 		"editor.selectionBackground": "#534f4fbe",
 		"editor.wordHighlightBackground": "#4a4a7680",
 		"editor.wordHighlightStrongBackground": "#6a6a9680",
@@ -36,8 +36,9 @@
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
 		"editorIndentGuide.activeBackground": "#767771",
-		"editorGroupHeader.tabsBackground": "#1e1f1c",
-		"editorGroup.dropBackground": "#41433980",
+		"editorGroupHeader.tabsBackground": "#050505",
+		"editorGroup.dropBackground": "#33363580",
+		"editorGroupHeader.tabsBorder": "#dfdfdf",
 		"tab.inactiveBackground": "#34352f",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveForeground": "#ccccc7", // needs to be bright so it's readable when another editor group is focused
@@ -61,7 +62,7 @@
 		"activityBar.dropBackground": "#414339",
 		"sideBar.background": "#212527",
 		"sideBarSectionHeader.background": "#2e3436",
-		"menu.background": "#75c21d",
+		"menu.background": "#3d3d3c",
 		"menu.foreground": "#cccccc",
 		"pickerGroup.foreground": "#75715E",
 		"input.background": "#414339",
@@ -118,7 +119,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#d3a397"
+				"foreground": "#e47b7b"
 			}
 		},
 		{
@@ -211,7 +212,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#d58ee7"
+				"foreground": "#b789e2fb"
 			}
 		},
 		{
@@ -227,7 +228,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#6ae8f8"
+				"foreground": "#24c3f8"
 			}
 		},
 		{
@@ -235,7 +236,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#8ebbf5"
+				"foreground": "#dbd030"
 			}
 		},
 		{
