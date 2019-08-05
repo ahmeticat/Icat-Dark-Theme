@@ -4,7 +4,7 @@ Dark Theme for VsCode
 
 ## Getting Started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ahmeticat.icattheme).
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ahmeticat.icat-dark-theme).
 
 ### Installing
 
@@ -16,7 +16,7 @@ Launch *Quick Open:*
 Paste the following command and press *Enter:*
 
 ```
-ext install icat-theme
+ext install icat-dark-theme
 ```
 
 And pick the one by Ahmet Icat (me) as author.
@@ -27,6 +27,6 @@ And pick the one by Ahmet Icat (me) as author.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ahmeticat/icatTheme/blob/master/README.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ahmeticat/Icat-Dark-Theme/blob/master/README.md) file for details
 
 
