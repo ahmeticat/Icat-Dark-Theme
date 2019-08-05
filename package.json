@@ -2,7 +2,7 @@
     "name": "icat-dark-theme",
     "displayName": "Icat Dark Theme",
     "description": "Dark Theme For VsCode",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "icon": "theme.png",
     "engines": {
         "vscode": "^1.36.0"
